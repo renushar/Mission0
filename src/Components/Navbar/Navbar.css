@@ -8,10 +8,11 @@
 }
 
 .navbar-logo {
-    color: #fff;
+    color: rgb(246, 242, 242);
     justify-self: start;
-    margin-left: 20px;
+    margin-left: 2px;
     cursor: pointer;
+    font-size: 30px;
 }
 
 .fa-image{

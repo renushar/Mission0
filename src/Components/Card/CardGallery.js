@@ -5,9 +5,9 @@ import "./Card.css"
 
 const CardGallery = () => {
     const [cards,setCards]=useState ([
-        {image: "lotus.png", title:'LOTUS', author: '', id:1},
-        {image: "beach.png", title:'BEACH', author: '', id:2},
-        {image: "lake.png", title:'LAKE', author: '', id:3},
+        {image: "lotus.png", title:'Lotus', author: '', id:1},
+        {image: "beach.png", title:'Beach', author: '', id:2},
+        {image: "lake.png", title:'Lake', author: '', id:3},
     ])
         return (
         <div className='card-Container' >
